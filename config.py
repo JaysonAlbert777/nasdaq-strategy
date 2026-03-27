@@ -43,7 +43,7 @@ MIN_TRADE_SIGNAL_SCORE = 3
 TRADE_COOLDOWN_DAYS = 30
 
 # 通知配置 (飞书)
-FEISHU_WEBHOOK_URL = ""
+FEISHU_WEBHOOK_URL = "https://open.feishu.cn/open-apis/bot/v2/hook/ba2567b1-6c2b-4320-b9db-9c4ada247b19"
 
 # 数据源
 DATA_SOURCE = "yfinance"
